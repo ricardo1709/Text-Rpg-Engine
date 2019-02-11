@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Rpg", "Text Rpg\Text Rpg.csproj", "{B6B3DAED-A731-4DE0-ABA5-8063467023A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPGEngine", "TextRPGEngine\TextRPGEngine.csproj", "{04E3DF5E-3236-4CEC-B98E-3D426821C4FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text RPG Tests", "Text RPG Tests\Text RPG Tests.csproj", "{7E8A2D30-023F-4B6A-B51B-BB8EDE355FE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B6B3DAED-A731-4DE0-ABA5-8063467023A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B3DAED-A731-4DE0-ABA5-8063467023A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B3DAED-A731-4DE0-ABA5-8063467023A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E3DF5E-3236-4CEC-B98E-3D426821C4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E3DF5E-3236-4CEC-B98E-3D426821C4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E3DF5E-3236-4CEC-B98E-3D426821C4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E3DF5E-3236-4CEC-B98E-3D426821C4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8A2D30-023F-4B6A-B51B-BB8EDE355FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8A2D30-023F-4B6A-B51B-BB8EDE355FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8A2D30-023F-4B6A-B51B-BB8EDE355FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8A2D30-023F-4B6A-B51B-BB8EDE355FE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
